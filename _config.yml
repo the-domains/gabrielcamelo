@@ -1,4 +1,4 @@
-layout_spectrum: 0.2680851
+name: gabrielcamelo
 opengraph:
   image: null
   type: null
@@ -9,32 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.2680851
 color:
   saturation: 0.05957447
   brandStrength: 0.4907994535751641
-  lightness: 0.1659575
+  rhythmicContrast: 0.3914894
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  rhythmicContrast: 0.3914894
-typography_spectrum: 0.7387209618464112
+  lightness: 0.1659575
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+typography_spectrum: 0.7387209618464112
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: gabrielcamelo
